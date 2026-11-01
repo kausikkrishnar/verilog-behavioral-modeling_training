@@ -38,7 +38,7 @@ module counter_32bit_TB(
     
     initial begin
     reset = 1;
-    #20;
+    #27;
     reset = 0;
     end
     
